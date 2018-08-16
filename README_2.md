@@ -27,3 +27,19 @@ nano setup.go
 nano query.go 
 nano invoke.go
 ```
+
++ Create the `config.yaml` file in the root directory
+```
+nano config.yaml
+```
+
++ Create the `main.go` file in the root directory
+```
+nano main.go
+```
+
++ Create the `web` directory at the root
+```
+mkdir web && cd web
+```
+
